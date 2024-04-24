@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;1,400&family=Titillium+Web:wght@700&display=swap');
+
+body {
+    background-color: #ffeded;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 30px;
+  
+}
+
+
+header {
+    width: 100%;
+    font-family: "Titillium Web", sans-serif;
+    font-style: normal;
+}   
+
+h1 {
+    text-align:center;
+    color: #6b3fb1;
+    font-size: 60px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    align-items: center;
+    color: #6b3fb1;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: left;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.contacto {
+    text-align: right;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.cierre {
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    color: #6b3fb1;
+}
+
+a {
+    text-decoration:none;
+    color: black;
+}
+
+
+#vinculo {
+    color: #6b3fb1;
+}
+
+
+#vinculo:hover{
+   font-style:italic;
+   
+}
+
+
+a:hover{
+
+text-decoration: underline;
+}
+
+
+li, h1, h2, h3 {
+
+text-transform: capitalize;
+}
+
+img {
+    width: 25%;
+    margin: auto;
+    display: block;
+    border-radius: 200px;
+}
